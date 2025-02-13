@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADS131M08Q")(type "KiCad")(uri "${KIPRJMOD}/ADS131M08Q.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ76920")(type "KiCad")(uri "${KIPRJMOD}/BQ76920.kicad_sym")(options "")(descr ""))
+  (lib (name "utsvt-chips")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-chips.kicad_sym")(options "")(descr ""))
+  (lib (name "utsvt-connectors")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "utsvt-microcontrollers")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-microcontrollers.kicad_sym")(options "")(descr ""))
+  (lib (name "utsvt-misc")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-misc.kicad_sym")(options "")(descr ""))
+  (lib (name "utsvt-power-regulators")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-power-regulators.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74AUP2G80DCUR")(type "KiCad")(uri "${KIPRJMOD}/SN74AUP2G80DCUR.kicad_sym")(options "")(descr ""))
+  (lib (name "SIT8924BA-22-33E-8")(type "KiCad")(uri "${KIPRJMOD}/SIT8924BA-22-33E-8.kicad_sym")(options "")(descr ""))
+)
