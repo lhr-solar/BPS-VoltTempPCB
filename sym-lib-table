@@ -9,4 +9,6 @@
   (lib (name "utsvt-power-regulators")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-power-regulators.kicad_sym")(options "")(descr ""))
   (lib (name "SN74AUP2G80DCUR")(type "KiCad")(uri "${KIPRJMOD}/SN74AUP2G80DCUR.kicad_sym")(options "")(descr ""))
   (lib (name "SIT8924BA-22-33E-8")(type "KiCad")(uri "${KIPRJMOD}/SIT8924BA-22-33E-8.kicad_sym")(options "")(descr ""))
+  (lib (name "ISO1541QDQ1")(type "KiCad")(uri "${KIPRJMOD}/ISO1641BDR.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM3 - 8mhz")(type "KiCad")(uri "${KIPRJMOD}/ABM3 - 8mhz.kicad_sym")(options "")(descr ""))
 )
