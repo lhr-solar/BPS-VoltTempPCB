@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "286f0d93-2a80-4abf-b115-d33410b730c4")
 	(paper "A4")
+	(title_block
+		(title "BPS Voltage&Temperature board ")
+		(date "2025-03-05")
+	)
 	(lib_symbols
 		(symbol "BQ76920:BQ7692003PW"
 			(pin_names
@@ -7828,7 +7832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ISO1641BDR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/iso1641.pdf?ts=1741147731751&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FISO1641%252Fpart-details%252FISO1641BDR"
 			(at 137.16 27.94 0)
 			(effects
 				(font

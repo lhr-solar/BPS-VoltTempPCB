@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "d0a60b09-5eca-4c36-af59-140467ab0a8f")
 	(paper "A4")
+	(title_block
+		(title "BPS Voltage&Temperature board ")
+		(date "2025-03-05")
+	)
 	(lib_symbols
 		(symbol "ABM3 - 8mhz:ABM3-8.000MHZ-D2Y-T"
 			(pin_names
