@@ -12,4 +12,6 @@
   (lib (name "ISO1641BDR")(type "KiCad")(uri "${KIPRJMOD}/symbols_for_chips_etc/ISO1641BDR.kicad_sym")(options "")(descr ""))
   (lib (name "SIT8924BA-22-33E-8")(type "KiCad")(uri "${KIPRJMOD}/symbols_for_chips_etc/SIT8924BA-22-33E-8.kicad_sym")(options "")(descr ""))
   (lib (name "SN74AUP2G80DCUR")(type "KiCad")(uri "${KIPRJMOD}/symbols_for_chips_etc/SN74AUP2G80DCUR.kicad_sym")(options "")(descr ""))
+  (lib (name "418121270806")(type "KiCad")(uri "${KIPRJMOD}/symbols_for_chips_etc/418121270806.kicad_sym")(options "")(descr ""))
+  (lib (name "DS04-254-2-02BK-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols_for_chips_etc/DS04-254-2-02BK-SMT-TR.kicad_sym")(options "")(descr ""))
 )
