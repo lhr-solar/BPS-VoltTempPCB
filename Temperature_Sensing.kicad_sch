@@ -4429,7 +4429,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "36pF"
+		(property "Value" "18pF"
 			(at 230.632 69.596 90)
 			(effects
 				(font
@@ -6224,7 +6224,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "36pF"
+		(property "Value" "18pF"
 			(at 230.632 59.436 90)
 			(effects
 				(font
