@@ -4378,7 +4378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1022_C0G_AUTO_SMD-3316328.pdf"
 			(at 38.1 104.14 0)
 			(effects
 				(font
@@ -4388,6 +4388,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "80-C0805C472J3GAUTO "
 			(at 38.1 104.14 0)
 			(effects
 				(font
@@ -4447,7 +4456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/40/KGU_Series-3454125.pdf"
 			(at 237.49 68.58 0)
 			(effects
 				(font
@@ -4457,6 +4466,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 237.49 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "581-KGU21RCG2E180FU "
 			(at 237.49 68.58 0)
 			(effects
 				(font
@@ -4647,7 +4665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D"
 			(at 125.73 60.96 0)
 			(effects
 				(font
@@ -4657,6 +4675,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "CRCW0805100KFKEAC"
 			(at 125.73 60.96 0)
 			(effects
 				(font
@@ -4847,7 +4874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 139.7 60.96 0)
 			(effects
 				(font
@@ -4857,6 +4884,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 139.7 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 139.7 60.96 0)
 			(effects
 				(font
@@ -4916,7 +4952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1022_C0G_AUTO_SMD-3316328.pdf"
 			(at 38.1 99.06 0)
 			(effects
 				(font
@@ -4926,6 +4962,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "80-C0805C472J3GAUTO "
 			(at 38.1 99.06 0)
 			(effects
 				(font
@@ -4985,7 +5030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 34.29 121.92 0)
 			(effects
 				(font
@@ -4995,6 +5040,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 34.29 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "71-CRCW0805-50 "
 			(at 34.29 121.92 0)
 			(effects
 				(font
@@ -5054,7 +5108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1022_C0G_AUTO_SMD-3316328.pdf"
 			(at 38.1 93.98 0)
 			(effects
 				(font
@@ -5064,6 +5118,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "80-C0805C472J3GAUTO "
 			(at 38.1 93.98 0)
 			(effects
 				(font
@@ -5254,7 +5317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1022_C0G_AUTO_SMD-3316328.pdf"
 			(at 38.1 119.38 0)
 			(effects
 				(font
@@ -5264,6 +5327,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "80-C0805C472J3GAUTO "
 			(at 38.1 119.38 0)
 			(effects
 				(font
@@ -5390,7 +5462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 234.95 43.18 0)
 			(effects
 				(font
@@ -5400,6 +5472,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 234.95 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 234.95 43.18 0)
 			(effects
 				(font
@@ -5457,7 +5538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053132102_sd.pdf"
 			(at 52.07 20.32 0)
 			(effects
 				(font
@@ -5467,6 +5548,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 52.07 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-2102"
 			(at 52.07 20.32 0)
 			(effects
 				(font
@@ -5603,7 +5693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053132104_sd.pdf"
 			(at 24.13 55.88 0)
 			(effects
 				(font
@@ -5613,6 +5703,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 24.13 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-2104"
 			(at 24.13 55.88 0)
 			(effects
 				(font
@@ -5893,6 +5992,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "595-ADS131M08QPBSRQ1"
+			(at 146.05 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "17"
 			(uuid "e18f15ae-49f0-444f-86b6-091468f8b39f")
 		)
@@ -6032,7 +6140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053132104_sd.pdf"
 			(at 25.4 31.75 0)
 			(effects
 				(font
@@ -6042,6 +6150,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-2104"
 			(at 25.4 31.75 0)
 			(effects
 				(font
@@ -6107,7 +6224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 34.29 106.68 0)
 			(effects
 				(font
@@ -6117,6 +6234,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 34.29 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "71-CRCW0805-50 "
 			(at 34.29 106.68 0)
 			(effects
 				(font
@@ -6242,7 +6368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/40/KGU_Series-3454125.pdf"
 			(at 237.49 58.42 0)
 			(effects
 				(font
@@ -6252,6 +6378,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 237.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "581-KGU21RCG2E180FU "
 			(at 237.49 58.42 0)
 			(effects
 				(font
@@ -6376,7 +6511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 34.29 86.36 0)
 			(effects
 				(font
@@ -6386,6 +6521,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 34.29 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "71-CRCW0805-50 "
 			(at 34.29 86.36 0)
 			(effects
 				(font
@@ -6445,7 +6589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1022_C0G_AUTO_SMD-3316328.pdf"
 			(at 38.1 114.3 0)
 			(effects
 				(font
@@ -6455,6 +6599,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "80-C0805C472J3GAUTO "
 			(at 38.1 114.3 0)
 			(effects
 				(font
@@ -6512,7 +6665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053132102_sd.pdf"
 			(at 52.07 34.29 0)
 			(effects
 				(font
@@ -6522,6 +6675,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 52.07 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-2102"
 			(at 52.07 34.29 0)
 			(effects
 				(font
@@ -6646,7 +6808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 34.29 91.44 0)
 			(effects
 				(font
@@ -6656,6 +6818,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 34.29 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "71-CRCW0805-50 "
 			(at 34.29 91.44 0)
 			(effects
 				(font
@@ -6715,7 +6886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 34.29 96.52 0)
 			(effects
 				(font
@@ -6725,6 +6896,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 34.29 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "71-CRCW0805-50 "
 			(at 34.29 96.52 0)
 			(effects
 				(font
@@ -6851,7 +7031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 34.29 111.76 0)
 			(effects
 				(font
@@ -6861,6 +7041,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 34.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "71-CRCW0805-50 "
 			(at 34.29 111.76 0)
 			(effects
 				(font
@@ -6920,7 +7109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1022_C0G_AUTO_SMD-3316328.pdf"
 			(at 38.1 109.22 0)
 			(effects
 				(font
@@ -6930,6 +7119,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "80-C0805C472J3GAUTO "
 			(at 38.1 109.22 0)
 			(effects
 				(font
@@ -6989,7 +7187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0805100KFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZRT9GjFuHWDV3jEqj5sSqw%3D%3D"
 			(at 217.17 69.85 0)
 			(effects
 				(font
@@ -6999,6 +7197,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 217.17 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "CRCW0805100KFKEAC"
 			(at 217.17 69.85 0)
 			(effects
 				(font
@@ -7060,7 +7267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ABM3-8.000MHZ-D2Y-T"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/3/abm3-1774854.pdf"
 			(at 240.03 68.58 0)
 			(effects
 				(font
@@ -7071,6 +7278,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "815-ABM3-8-D2Y-T"
 			(at 240.03 68.58 0)
 			(effects
 				(font
@@ -7130,7 +7346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1010_X7R_HV_SMD-3316377.pdf"
 			(at 234.95 48.26 0)
 			(effects
 				(font
@@ -7140,6 +7356,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 234.95 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "80-C0805C22JCRTU"
 			(at 234.95 48.26 0)
 			(effects
 				(font
@@ -7199,7 +7424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 34.29 116.84 0)
 			(effects
 				(font
@@ -7209,6 +7434,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 34.29 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "71-CRCW0805-50 "
 			(at 34.29 116.84 0)
 			(effects
 				(font
@@ -7266,7 +7500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053132102_sd.pdf"
 			(at 69.85 34.29 0)
 			(effects
 				(font
@@ -7276,6 +7510,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 69.85 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-2102"
 			(at 69.85 34.29 0)
 			(effects
 				(font
@@ -7335,7 +7578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 34.29 101.6 0)
 			(effects
 				(font
@@ -7345,6 +7588,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 34.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "71-CRCW0805-50 "
 			(at 34.29 101.6 0)
 			(effects
 				(font
@@ -7470,7 +7722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1022_C0G_AUTO_SMD-3316328.pdf"
 			(at 38.1 88.9 0)
 			(effects
 				(font
@@ -7480,6 +7732,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "80-C0805C472J3GAUTO "
 			(at 38.1 88.9 0)
 			(effects
 				(font
@@ -7538,7 +7799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/1628/ds04_254_smt-3510286.pdf"
 			(at 50.8 53.34 0)
 			(effects
 				(font
@@ -7593,6 +7854,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "P/N" "490-DS04254202BK-STR"
+			(at 50.8 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7716,7 +7986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053132102_sd.pdf"
 			(at 69.85 20.32 0)
 			(effects
 				(font
@@ -7726,6 +7996,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 69.85 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-2102"
 			(at 69.85 20.32 0)
 			(effects
 				(font

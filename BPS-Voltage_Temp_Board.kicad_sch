@@ -6936,7 +6936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW080510K0FKEAC"
 			(at 191.77 26.67 0)
 			(effects
 				(font
@@ -6946,6 +6946,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "CRCW080510K0FKEAC"
 			(at 191.77 26.67 0)
 			(effects
 				(font
@@ -7005,7 +7014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW08050000Z0ECC"
 			(at 219.71 157.48 0)
 			(effects
 				(font
@@ -7015,6 +7024,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 219.71 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "SMD_0805"
 			(at 219.71 157.48 0)
 			(effects
 				(font
@@ -7380,7 +7398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053131103_sd.pdf"
 			(at 181.61 45.72 0)
 			(effects
 				(font
@@ -7390,6 +7408,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 181.61 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-1103 "
 			(at 181.61 45.72 0)
 			(effects
 				(font
@@ -7450,7 +7477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/ProductDetail/Molex/43650-0244?qs=XoD1gVtqLQuEe6RJ38AzJQ%3D%3D"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053132104_sd.pdf"
 			(at 215.9 58.42 0)
 			(effects
 				(font
@@ -7468,7 +7495,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N" "436500244"
+		(property "P/N" "538-105313-2104"
 			(at 210.82 66.04 0)
 			(effects
 				(font
@@ -7600,7 +7627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW08050000Z0ECC"
 			(at 248.92 121.92 0)
 			(effects
 				(font
@@ -7610,6 +7637,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 248.92 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "SMD_0805"
 			(at 248.92 121.92 0)
 			(effects
 				(font
@@ -7817,6 +7853,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "FUSC1607X75N"
+			(at 36.83 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce3ea08e-d8d8-410e-8109-997f35961dff")
 		)
@@ -7934,7 +7979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 269.24 152.4 0)
 			(effects
 				(font
@@ -7944,6 +7989,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 269.24 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 269.24 152.4 0)
 			(effects
 				(font
@@ -8268,7 +8322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 269.24 147.32 0)
 			(effects
 				(font
@@ -8278,6 +8332,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 269.24 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 269.24 147.32 0)
 			(effects
 				(font
@@ -8355,6 +8418,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "595-ADS131M08QPBSRQ1"
+			(at 137.16 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "6f61e92c-9cf0-43bb-b615-247d54baa0f7")
 		)
@@ -8424,7 +8496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/385/SEI_RNCF-3077647.pdf"
 			(at 29.21 67.31 0)
 			(effects
 				(font
@@ -8434,6 +8506,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 29.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "708-RNCF0805BTE500K"
 			(at 29.21 67.31 0)
 			(effects
 				(font
@@ -8493,7 +8574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/catalog/specsheets/Panasonic_03-31-2024_Resistor_Anti-Sulfur(ERJ-UP6D-Series).pdf"
 			(at 95.25 109.22 0)
 			(effects
 				(font
@@ -8503,6 +8584,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 95.25 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "667-ERJ-UP6D2001V "
 			(at 95.25 109.22 0)
 			(effects
 				(font
@@ -8562,7 +8652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW08050000Z0ECC"
 			(at 248.92 152.4 0)
 			(effects
 				(font
@@ -8572,6 +8662,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 248.92 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "SMD_0805"
 			(at 248.92 152.4 0)
 			(effects
 				(font
@@ -8631,7 +8730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28952/mcs0402at-mct0603at-mcu0805at-mca1206at.pdf"
 			(at 265.43 139.7 0)
 			(effects
 				(font
@@ -8641,6 +8740,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 265.43 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "594-MCU0805MD1000BP1"
 			(at 265.43 139.7 0)
 			(effects
 				(font
@@ -8784,6 +8892,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "595-BQ7692000PWR "
+			(at 69.85 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "5b2c95d0-8b4c-4a32-a5d6-829b4caf6f0a")
 		)
@@ -8887,7 +9004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/ProductDetail/Molex/43650-0244?qs=XoD1gVtqLQuEe6RJ38AzJQ%3D%3D"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053132104_sd.pdf"
 			(at 215.9 40.64 0)
 			(effects
 				(font
@@ -8905,7 +9022,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N" "436500244"
+		(property "P/N" "538-105313-2104"
 			(at 210.82 48.26 0)
 			(effects
 				(font
@@ -8971,7 +9088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 269.24 127 0)
 			(effects
 				(font
@@ -8981,6 +9098,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 269.24 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 269.24 127 0)
 			(effects
 				(font
@@ -9038,7 +9164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053131205_sd.pdf"
 			(at 27.94 168.91 0)
 			(effects
 				(font
@@ -9048,6 +9174,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 27.94 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-1205"
 			(at 27.94 168.91 0)
 			(effects
 				(font
@@ -9116,7 +9251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW080510K0FKEAC"
 			(at 182.88 26.67 0)
 			(effects
 				(font
@@ -9126,6 +9261,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 182.88 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "CRCW080510K0FKEAC"
 			(at 182.88 26.67 0)
 			(effects
 				(font
@@ -9185,7 +9329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28952/mcs0402at-mct0603at-mcu0805at-mca1206at.pdf"
 			(at 265.43 134.62 0)
 			(effects
 				(font
@@ -9195,6 +9339,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "594-MCU0805MD1000BP1"
 			(at 265.43 134.62 0)
 			(effects
 				(font
@@ -9254,7 +9407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/Taiyo-Yuden/TMK212BBJ106MGHT?qs=sGAEpiMZZMsh%252B1woXyUXj6Ion9DcW8uk%2FCsbgn7gICc%3D"
 			(at 93.98 33.02 0)
 			(effects
 				(font
@@ -9264,6 +9417,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 93.98 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "TMK212BBJ106MGHT"
 			(at 93.98 33.02 0)
 			(effects
 				(font
@@ -9406,6 +9568,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "FUSC1607X75N"
+			(at 93.98 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cd9c5042-859a-476d-960d-56c45106eb22")
 		)
@@ -9466,6 +9637,15 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
+			(at 36.83 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "FUSC1607X75N"
 			(at 36.83 173.99 0)
 			(effects
 				(font
@@ -9722,7 +9902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/418121270806.pdf"
 			(at 66.04 179.07 0)
 			(effects
 				(font
@@ -9732,6 +9912,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 66.04 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "710-418121270806 "
 			(at 66.04 179.07 0)
 			(effects
 				(font
@@ -10082,6 +10271,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "FUSC1607X75N"
+			(at 93.98 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4d4eb02d-dca2-4d31-b7ad-5fc5a63235df")
 		)
@@ -10331,7 +10529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/307/en-b3sl-1093544.pdf"
 			(at 109.22 99.06 0)
 			(effects
 				(font
@@ -10341,6 +10539,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 114.3 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "653-B3SL-1002P"
 			(at 114.3 99.06 0)
 			(effects
 				(font
@@ -10531,7 +10738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28952/mcs0402at-mct0603at-mcu0805at-mca1206at.pdf"
 			(at 265.43 129.54 0)
 			(effects
 				(font
@@ -10541,6 +10748,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 265.43 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "594-MCU0805MD1000BP1"
 			(at 265.43 129.54 0)
 			(effects
 				(font
@@ -10600,7 +10816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW080510K0FKEAC"
 			(at 97.79 72.39 0)
 			(effects
 				(font
@@ -10610,6 +10826,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 97.79 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "CRCW080510K0FKEAC"
 			(at 97.79 72.39 0)
 			(effects
 				(font
@@ -10752,6 +10977,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "FUSC1607X75N"
+			(at 93.98 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55099776-e2f8-4d35-8162-a0b7d4918b60")
 		)
@@ -10885,6 +11119,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "FUSC1607X75N"
+			(at 36.83 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "77ed94f0-9245-4da1-bd9e-d8b1d84b0cca")
 		)
@@ -10945,6 +11188,15 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
+			(at 93.98 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "FUSC1607X75N"
 			(at 93.98 163.83 0)
 			(effects
 				(font
@@ -11202,7 +11454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28952/mcs0402at-mct0603at-mcu0805at-mca1206at.pdf"
 			(at 265.43 144.78 0)
 			(effects
 				(font
@@ -11212,6 +11464,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 265.43 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "594-MCU0805MD1000BP1"
 			(at 265.43 144.78 0)
 			(effects
 				(font
@@ -11337,7 +11598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW080510K0FKEAC"
 			(at 26.67 92.71 0)
 			(effects
 				(font
@@ -11347,6 +11608,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 26.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "CRCW080510K0FKEAC"
 			(at 26.67 92.71 0)
 			(effects
 				(font
@@ -11670,7 +11940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW08051K00FKEAC"
 			(at 106.68 26.67 0)
 			(effects
 				(font
@@ -11680,6 +11950,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 106.68 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "CRCW08051K00FKEAC"
 			(at 106.68 26.67 0)
 			(effects
 				(font
@@ -11814,6 +12093,15 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
+			(at 36.83 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "FUSC1607X75N"
 			(at 36.83 184.15 0)
 			(effects
 				(font
@@ -12070,7 +12358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 269.24 132.08 0)
 			(effects
 				(font
@@ -12080,6 +12368,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 269.24 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 269.24 132.08 0)
 			(effects
 				(font
@@ -12148,6 +12445,15 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
+			(at 93.98 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "FUSC1607X75N"
 			(at 93.98 189.23 0)
 			(effects
 				(font
@@ -12273,7 +12579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28952/mcs0402at-mct0603at-mcu0805at-mca1206at.pdf"
 			(at 38.1 71.12 0)
 			(effects
 				(font
@@ -12283,6 +12589,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 38.1 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "594-MCU0805MD1000BP1"
 			(at 38.1 71.12 0)
 			(effects
 				(font
@@ -12342,7 +12657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 104.14 53.34 0)
 			(effects
 				(font
@@ -12352,6 +12667,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 104.14 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 104.14 53.34 0)
 			(effects
 				(font
@@ -12477,7 +12801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/86363/1n448w-g.pdf"
 			(at 93.98 20.32 90)
 			(effects
 				(font
@@ -12487,6 +12811,15 @@
 			)
 		)
 		(property "Description" "Zener diode, small symbol"
+			(at 93.98 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "1N448W"
 			(at 93.98 20.32 0)
 			(effects
 				(font
@@ -12546,7 +12879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW08050000Z0ECC"
 			(at 248.92 144.78 0)
 			(effects
 				(font
@@ -12556,6 +12889,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 248.92 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "SMD_0805"
 			(at 248.92 144.78 0)
 			(effects
 				(font
@@ -12632,6 +12974,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "FUSC1607X75N"
+			(at 35.56 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "70609650-d03a-4d80-b2e3-4a49c47a4e49")
 		)
@@ -12700,6 +13051,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "FUSC1607X75N"
+			(at 36.83 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "557f668b-84f4-491d-9088-1cffed6e44be")
 		)
@@ -12751,7 +13111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28952/mcs0402at-mct0603at-mcu0805at-mca1206at.pdf"
 			(at 93.98 26.67 0)
 			(effects
 				(font
@@ -12761,6 +13121,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 93.98 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "594-MCU0805MD1000BP1"
 			(at 93.98 26.67 0)
 			(effects
 				(font
@@ -12886,7 +13255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 120.65 43.18 0)
 			(effects
 				(font
@@ -12896,6 +13265,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 120.65 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 120.65 43.18 0)
 			(effects
 				(font
@@ -12955,7 +13333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28952/mcs0402at-mct0603at-mcu0805at-mca1206at.pdf"
 			(at 265.43 154.94 0)
 			(effects
 				(font
@@ -12965,6 +13343,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 265.43 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "594-MCU0805MD1000BP1"
 			(at 265.43 154.94 0)
 			(effects
 				(font
@@ -13024,7 +13411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW08051K00FKEAC"
 			(at 106.68 19.05 0)
 			(effects
 				(font
@@ -13034,6 +13421,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 106.68 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "CRCW08051K00FKEAC"
 			(at 106.68 19.05 0)
 			(effects
 				(font
@@ -13158,7 +13554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/40/U_Series-2942365.pdf"
 			(at 43.18 73.66 0)
 			(effects
 				(font
@@ -13168,6 +13564,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 43.18 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "581-08052U4.7B"
 			(at 43.18 73.66 0)
 			(effects
 				(font
@@ -13293,7 +13698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW08050000Z0ECC"
 			(at 248.92 137.16 0)
 			(effects
 				(font
@@ -13303,6 +13708,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 248.92 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "SMD_0805"
 			(at 248.92 137.16 0)
 			(effects
 				(font
@@ -13362,7 +13776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Kemet-C0805C475K3RACAUTO/C696371"
 			(at 111.76 48.26 0)
 			(effects
 				(font
@@ -13372,6 +13786,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 111.76 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C475K3RACAUTO"
 			(at 111.76 48.26 0)
 			(effects
 				(font
@@ -13497,7 +13920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/71-CRCW08050000Z0ECC"
 			(at 248.92 129.54 0)
 			(effects
 				(font
@@ -13507,6 +13930,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 248.92 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "SMD_0805"
 			(at 248.92 129.54 0)
 			(effects
 				(font
@@ -13564,7 +13996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053131103_sd.pdf"
 			(at 151.13 45.72 0)
 			(effects
 				(font
@@ -13574,6 +14006,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 151.13 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-1103 "
 			(at 151.13 45.72 0)
 			(effects
 				(font
@@ -13768,7 +14209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 269.24 137.16 0)
 			(effects
 				(font
@@ -13778,6 +14219,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 269.24 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 269.24 137.16 0)
 			(effects
 				(font
@@ -13835,7 +14285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://tools.molex.com/pdm_docs/sd/1053131205_sd.pdf"
 			(at 27.94 184.15 0)
 			(effects
 				(font
@@ -13845,6 +14295,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 27.94 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "538-105313-1205"
 			(at 27.94 184.15 0)
 			(effects
 				(font
@@ -13979,7 +14438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/KEMET/C0805C105K5PACTU?qs=mYAa4mSiDJyTAfAbrHf%2FRg%3D%3D"
 			(at 269.24 142.24 0)
 			(effects
 				(font
@@ -13989,6 +14448,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 269.24 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 269.24 142.24 0)
 			(effects
 				(font
@@ -14215,6 +14683,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "FUSC1607X75N"
+			(at 93.98 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cfb31137-1a87-4fa7-9c0d-73d38b731f64")
 		)
@@ -14266,7 +14743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28952/mcs0402at-mct0603at-mcu0805at-mca1206at.pdf"
 			(at 265.43 124.46 0)
 			(effects
 				(font
@@ -14276,6 +14753,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 265.43 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "594-MCU0805MD1000BP1"
 			(at 265.43 124.46 0)
 			(effects
 				(font
