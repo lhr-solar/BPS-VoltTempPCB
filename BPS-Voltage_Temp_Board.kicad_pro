@@ -486,7 +486,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "BPS-Voltage_Temp_Board.step",
       "svg": "",
       "vrml": ""
     },
