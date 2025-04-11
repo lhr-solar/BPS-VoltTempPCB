@@ -32551,7 +32551,7 @@
 			(uuid "329e1aae-eebf-41c0-89a8-2053a03c2049")
 		)
 		(embedded_fonts no)
-		(model "/Users/lakshaygupta/Downloads/161096528-659-1053131205/1053131205.stp"
+		(model "${KIPRJMOD}/misc_3d_models/1053131105.stp"
 			(offset
 				(xyz 6.1 -5 2)
 			)
