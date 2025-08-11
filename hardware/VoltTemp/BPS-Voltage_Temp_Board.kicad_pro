@@ -704,6 +704,26 @@
     [
       "b98a0b4d-b474-46e4-af8f-719e1bb91bc9",
       "TemperatureFilters"
+    ],
+    [
+      "305db25e-0e18-41b2-b157-490c9c9ed149",
+      "TemperatureFilter0"
+    ],
+    [
+      "eab5a88a-8eae-40be-bde5-afb3b6331798",
+      "TemperatureFilter1"
+    ],
+    [
+      "0b6a6f29-4cfd-471f-918e-165d9124c249",
+      "TemperatureFilter2"
+    ],
+    [
+      "4a5d6278-49ce-4bbe-b320-bfc4455852c3",
+      "TemperatureFilter3"
+    ],
+    [
+      "0071554d-4281-4843-9531-44fa66f109f1",
+      "TemperatureFilter4"
     ]
   ],
   "text_variables": {}

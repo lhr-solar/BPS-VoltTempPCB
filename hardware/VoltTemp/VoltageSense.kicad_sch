@@ -7032,6 +7032,17 @@
 		)
 		(uuid "0e8911f2-a996-4e18-81e3-a6cd2cd29d20")
 	)
+	(hierarchical_label "BAT_RTN"
+		(shape passive)
+		(at 34.29 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1bdd9f75-1540-4141-b5a3-9d0bab2eb00d")
+	)
 	(hierarchical_label "LV_RTN"
 		(shape bidirectional)
 		(at 198.12 55.88 180)

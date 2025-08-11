@@ -5,4 +5,761 @@
 	(uuid "62f5d096-1c3b-473c-9490-20e328645474")
 	(paper "A4")
 	(lib_symbols)
+	(bus_entry
+		(at 78.74 99.06)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "001bff1b-90d8-4ca5-b931-8297cd544f62")
+	)
+	(bus_entry
+		(at 78.74 132.08)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1117d094-b8c6-4a01-ae12-76c1101ed50a")
+	)
+	(bus_entry
+		(at 147.32 81.28)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21d81c63-4e54-4d7b-a8ed-053e59975958")
+	)
+	(bus_entry
+		(at 78.74 115.57)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2309bb34-a5f2-4e35-9b9d-a6a58734abbd")
+	)
+	(bus_entry
+		(at 78.74 67.31)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52861a0e-b14c-4e71-86b9-5bab237f53cc")
+	)
+	(bus_entry
+		(at 78.74 83.82)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d2ea581-5a03-4687-bdf2-164692c46145")
+	)
+	(bus_entry
+		(at 147.32 129.54)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a01d41e3-7591-41cf-b896-e3de3beb7464")
+	)
+	(bus_entry
+		(at 147.32 66.04)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a12afb85-c0df-452f-96c8-becb2dd002f5")
+	)
+	(bus_entry
+		(at 147.32 96.52)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6e52d2e-eaae-46d8-b7e9-fc848796e182")
+	)
+	(bus_entry
+		(at 147.32 113.03)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9f40af1-aca8-4fb7-bef5-99302894a457")
+	)
+	(bus
+		(pts
+			(xy 149.86 62.23) (xy 151.13 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c2c0077-aa33-43c7-922f-e790f5c1f97c")
+	)
+	(bus
+		(pts
+			(xy 78.74 83.82) (xy 78.74 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "203aa79d-b39f-4e52-aef8-f63d2647778d")
+	)
+	(wire
+		(pts
+			(xy 129.54 81.28) (xy 147.32 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2958e204-81ba-4e9d-9833-9253fffaa9d0")
+	)
+	(bus
+		(pts
+			(xy 78.74 99.06) (xy 78.74 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2974ef1d-ecaa-42e3-b306-49bfe3fc6f0b")
+	)
+	(wire
+		(pts
+			(xy 129.54 113.03) (xy 147.32 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ed3e8a7-c476-443c-a05e-14dd174fb703")
+	)
+	(wire
+		(pts
+			(xy 129.54 96.52) (xy 147.32 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f27c20a-32d4-4541-a818-f5dcbd054a7e")
+	)
+	(bus
+		(pts
+			(xy 66.04 59.69) (xy 74.93 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40176581-502d-4e16-8ffd-258a83fc1696")
+	)
+	(wire
+		(pts
+			(xy 81.28 129.54) (xy 99.06 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "410334e2-60ca-4e5c-9959-fb418c0cf552")
+	)
+	(bus
+		(pts
+			(xy 149.86 68.58) (xy 149.86 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f857810-aade-48c0-9e30-b3c45e057fdc")
+	)
+	(wire
+		(pts
+			(xy 81.28 113.03) (xy 99.06 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73c37ee5-9e05-4d98-a8aa-d4699546570f")
+	)
+	(bus
+		(pts
+			(xy 149.86 115.57) (xy 149.86 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7620af9c-175d-4ad0-8f6d-b6ffa52871ac")
+	)
+	(wire
+		(pts
+			(xy 81.28 96.52) (xy 99.06 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76e8db9f-8055-4851-b5fa-aa0024a74f60")
+	)
+	(bus
+		(pts
+			(xy 74.93 59.69) (xy 78.74 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e118841-b397-429e-aaff-c3025a411126")
+	)
+	(bus
+		(pts
+			(xy 149.86 132.08) (xy 149.86 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b075c97a-5a69-4811-8c39-e7c4c8f25a0d")
+	)
+	(wire
+		(pts
+			(xy 81.28 64.77) (xy 99.06 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd0afcdb-1c50-4d53-b854-ad17cebe0f1b")
+	)
+	(wire
+		(pts
+			(xy 81.28 81.28) (xy 99.06 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be410a75-ff86-4feb-8a69-32b53b1b214d")
+	)
+	(bus
+		(pts
+			(xy 151.13 60.96) (xy 154.94 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0d8a73b-b3a6-4562-8fb8-f5c74554dbea")
+	)
+	(wire
+		(pts
+			(xy 129.54 66.04) (xy 147.32 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbe34194-9888-4ebd-b68f-e77cb15c6819")
+	)
+	(bus
+		(pts
+			(xy 149.86 99.06) (xy 149.86 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf910d5d-ac64-4741-a2d8-68b00bd6ed30")
+	)
+	(bus
+		(pts
+			(xy 78.74 115.57) (xy 78.74 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1ae39b3-199d-440c-8d2b-bd41bdb8c259")
+	)
+	(wire
+		(pts
+			(xy 129.54 129.54) (xy 147.32 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7545432-791a-41d9-afb7-b35369069bdd")
+	)
+	(bus
+		(pts
+			(xy 78.74 67.31) (xy 78.74 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8075956-6ded-46b3-b83c-b94fed9a07c6")
+	)
+	(bus
+		(pts
+			(xy 149.86 83.82) (xy 149.86 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fab1c197-91c3-4e66-bb5b-ff0883830832")
+	)
+	(bus
+		(pts
+			(xy 78.74 63.5) (xy 78.74 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fca2035a-ad78-4664-95c1-5ebc941d147b")
+	)
+	(label "Temperature1"
+		(at 132.08 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0fa7f4cf-0c26-440b-9b78-8563fcac16fe")
+	)
+	(label "Temperature4"
+		(at 132.08 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2dfb18d9-c1f9-41cc-a4ae-0620055f0acc")
+	)
+	(label "rawTemperature1"
+		(at 81.28 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e24adbc-9ecd-4b24-93ce-1f934d39ad31")
+	)
+	(label "rawTemperature3"
+		(at 81.28 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "30bc8292-be52-4117-925a-1be37a47b0bf")
+	)
+	(label "Temperature3"
+		(at 132.08 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "35f1e26f-e442-4c03-8092-8a7e2392c62f")
+	)
+	(label "Temperature2"
+		(at 132.08 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f4f7701-dfb2-45b3-8160-d2231cc55126")
+	)
+	(label "rawTemperature2"
+		(at 81.28 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "40d8ab1b-467c-4352-939b-f5a9fde45aa3")
+	)
+	(label "Temperature2"
+		(at 132.08 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "42a35195-3b46-46f5-9050-3d7b57c85715")
+	)
+	(label "rawTemperature0"
+		(at 81.28 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "445ded07-4631-4a2b-8929-b4b72104864f")
+	)
+	(label "rawTemperature4"
+		(at 81.28 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eb31b15f-62c0-495a-8a5c-32b43c3a6c36")
+	)
+	(hierarchical_label "rawTemperature[0..4]"
+		(shape input)
+		(at 66.04 59.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d8001107-83a4-4b9f-b9fe-788751a1bfdf")
+	)
+	(hierarchical_label "Temperatures[0..4]"
+		(shape output)
+		(at 154.94 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fe388794-8f81-4ee9-934c-0d6fb0570cbd")
+	)
+	(sheet
+		(at 99.06 125.73)
+		(size 30.48 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0071554d-4281-4843-9531-44fa66f109f1")
+		(property "Sheetname" "TemperatureFilter4"
+			(at 99.06 125.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TemperatureFilter.kicad_sch"
+			(at 99.06 136.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "tempIn" input
+			(at 99.06 129.54 180)
+			(uuid "a0221b42-22ff-4b70-81df-2a9bd367910d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tempOut" output
+			(at 129.54 129.54 0)
+			(uuid "b8746402-b8b3-4f71-b8ec-c7dad559597a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BPS-Voltage_Temp_Board"
+				(path "/286f0d93-2a80-4abf-b115-d33410b730c4/b98a0b4d-b474-46e4-af8f-719e1bb91bc9"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 92.71)
+		(size 30.48 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0b6a6f29-4cfd-471f-918e-165d9124c249")
+		(property "Sheetname" "TemperatureFilter2"
+			(at 99.06 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TemperatureFilter.kicad_sch"
+			(at 99.06 103.378 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "tempIn" input
+			(at 99.06 96.52 180)
+			(uuid "7adb1d04-8f05-48d8-971d-0746b2671960")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tempOut" output
+			(at 129.54 96.52 0)
+			(uuid "a7de50c4-5373-4d4f-97b2-5fb3eb404071")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BPS-Voltage_Temp_Board"
+				(path "/286f0d93-2a80-4abf-b115-d33410b730c4/b98a0b4d-b474-46e4-af8f-719e1bb91bc9"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 60.96)
+		(size 30.48 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "305db25e-0e18-41b2-b157-490c9c9ed149")
+		(property "Sheetname" "TemperatureFilter0"
+			(at 99.06 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TemperatureFilter.kicad_sch"
+			(at 99.06 71.628 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "tempIn" input
+			(at 99.06 64.77 180)
+			(uuid "adc7b6b3-8022-4a3b-a820-f74ce690d7a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tempOut" output
+			(at 129.54 66.04 0)
+			(uuid "f7f83c85-4cc2-441b-b185-ebf5ce12d875")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BPS-Voltage_Temp_Board"
+				(path "/286f0d93-2a80-4abf-b115-d33410b730c4/b98a0b4d-b474-46e4-af8f-719e1bb91bc9"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 109.22)
+		(size 30.48 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4a5d6278-49ce-4bbe-b320-bfc4455852c3")
+		(property "Sheetname" "TemperatureFilter3"
+			(at 99.06 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TemperatureFilter.kicad_sch"
+			(at 99.06 119.888 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "tempIn" input
+			(at 99.06 113.03 180)
+			(uuid "5ae637f1-1692-4914-b10a-cf87abe2546c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tempOut" output
+			(at 129.54 113.03 0)
+			(uuid "0219981c-dff2-4333-93fb-687a5a89a61e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BPS-Voltage_Temp_Board"
+				(path "/286f0d93-2a80-4abf-b115-d33410b730c4/b98a0b4d-b474-46e4-af8f-719e1bb91bc9"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 77.47)
+		(size 30.48 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eab5a88a-8eae-40be-bde5-afb3b6331798")
+		(property "Sheetname" "TemperatureFilter1"
+			(at 99.06 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TemperatureFilter.kicad_sch"
+			(at 99.06 88.138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "tempIn" input
+			(at 99.06 81.28 180)
+			(uuid "63c7f0f0-7b48-4295-bcb2-296fed60d177")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "tempOut" output
+			(at 129.54 81.28 0)
+			(uuid "ae151f31-2720-43e3-b1b0-38854c910be0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BPS-Voltage_Temp_Board"
+				(path "/286f0d93-2a80-4abf-b115-d33410b730c4/b98a0b4d-b474-46e4-af8f-719e1bb91bc9"
+					(page "8")
+				)
+			)
+		)
+	)
 )

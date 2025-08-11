@@ -1873,16 +1873,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 38.1) (xy 101.6 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "497c1ed3-53c4-4db7-85c7-223eacfbfbb9")
-	)
-	(wire
-		(pts
 			(xy 274.32 29.21) (xy 274.32 31.75)
 		)
 		(stroke
@@ -1914,7 +1904,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 38.1) (xy 102.87 39.37)
+			(xy 118.11 38.1) (xy 119.38 39.37)
 		)
 		(stroke
 			(width 0)
@@ -1972,6 +1962,16 @@
 		)
 		(uuid "c3169e5f-4451-4def-bb44-dd2808b299df")
 	)
+	(bus
+		(pts
+			(xy 48.26 58.42) (xy 69.85 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca6b9955-5237-40bb-8b8d-b336fa92cf16")
+	)
 	(wire
 		(pts
 			(xy 231.14 74.93) (xy 236.22 74.93)
@@ -1981,6 +1981,16 @@
 			(type default)
 		)
 		(uuid "d95e1051-7a8f-4529-9e69-cfd06c1eb065")
+	)
+	(wire
+		(pts
+			(xy 115.316 38.1) (xy 118.11 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eaa55e01-8533-44d8-b0ec-09f6a0ad3624")
 	)
 	(bus
 		(pts
@@ -5832,7 +5842,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 102.87 39.37 0)
+		(at 119.38 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5841,7 +5851,7 @@
 		(fields_autoplaced yes)
 		(uuid "42769d78-b359-4929-8eda-dcda9ee7f016")
 		(property "Reference" "#PWR026"
-			(at 102.87 45.72 0)
+			(at 119.38 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5850,7 +5860,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 102.87 44.45 0)
+			(at 119.38 44.45 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -5858,7 +5868,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 39.37 0)
+			(at 119.38 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5867,7 +5877,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 39.37 0)
+			(at 119.38 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5876,7 +5886,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 39.37 0)
+			(at 119.38 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6759,8 +6769,8 @@
 		)
 	)
 	(sheet
-		(at 29.21 27.686)
-		(size 19.05 12.7)
+		(at 26.162 27.686)
+		(size 22.098 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6774,7 +6784,7 @@
 		)
 		(uuid "28ab9f86-06e3-4025-a371-5e4e53853fdc")
 		(property "Sheetname" "VoltageConn"
-			(at 29.21 26.9744 0)
+			(at 26.162 26.9744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6783,7 +6793,7 @@
 			)
 		)
 		(property "Sheetfile" "VoltageConn.kicad_sch"
-			(at 29.21 40.894 0)
+			(at 26.162 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6821,7 +6831,7 @@
 	)
 	(sheet
 		(at 69.85 27.686)
-		(size 30.48 16.764)
+		(size 45.466 16.764)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6873,7 +6883,7 @@
 			)
 		)
 		(pin "bmsEn" input
-			(at 100.33 33.02 0)
+			(at 115.316 33.02 0)
 			(uuid "f6b15b17-9aae-4938-9b6e-53bfb4b044df")
 			(effects
 				(font
@@ -6883,7 +6893,7 @@
 			)
 		)
 		(pin "LV_RTN" bidirectional
-			(at 100.33 38.1 0)
+			(at 115.316 38.1 0)
 			(uuid "348a2b45-28b5-4938-b232-7f0839a1faa8")
 			(effects
 				(font
@@ -6893,7 +6903,7 @@
 			)
 		)
 		(pin "{I2C}" bidirectional
-			(at 100.33 30.48 0)
+			(at 115.316 30.48 0)
 			(uuid "a1122a15-f14a-4bed-a1e9-ec7b3d50d358")
 			(effects
 				(font
@@ -6903,7 +6913,7 @@
 			)
 		)
 		(pin "bmsAlert" output
-			(at 100.33 35.56 0)
+			(at 115.316 35.56 0)
 			(uuid "efe9dae9-044c-4db2-9fa6-fae2b011fa61")
 			(effects
 				(font
@@ -6921,8 +6931,8 @@
 		)
 	)
 	(sheet
-		(at 29.21 55.118)
-		(size 22.86 7.62)
+		(at 26.416 55.118)
+		(size 21.844 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6936,7 +6946,7 @@
 		)
 		(uuid "735139e3-8e5f-472a-8a6a-59a0bef23c37")
 		(property "Sheetname" "TemperatureConn"
-			(at 29.21 54.4064 0)
+			(at 26.416 54.4064 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6945,12 +6955,22 @@
 			)
 		)
 		(property "Sheetfile" "TemperatureConn.kicad_sch"
-			(at 28.956 62.992 0)
+			(at 26.162 62.992 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "rawTemperature[0..4]" bidirectional
+			(at 48.26 58.42 0)
+			(uuid "930751c0-0087-427f-8917-ff757ef32883")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -7064,8 +7084,8 @@
 		)
 	)
 	(sheet
-		(at 52.832 80.264)
-		(size 26.67 7.62)
+		(at 69.85 54.864)
+		(size 45.466 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7079,7 +7099,7 @@
 		)
 		(uuid "b98a0b4d-b474-46e4-af8f-719e1bb91bc9")
 		(property "Sheetname" "TemperatureFilters"
-			(at 52.832 79.5524 0)
+			(at 69.85 54.1524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7088,12 +7108,32 @@
 			)
 		)
 		(property "Sheetfile" "TemperatureFilters.kicad_sch"
-			(at 52.832 88.138 0)
+			(at 69.85 62.738 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "Temperatures[0..4]" output
+			(at 115.316 58.42 0)
+			(uuid "7efef896-9a29-4efa-9d32-0e98834a2e43")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "rawTemperature[0..4]" input
+			(at 69.85 58.42 180)
+			(uuid "e077e568-92a9-4f6f-825b-9a2801cc644e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
