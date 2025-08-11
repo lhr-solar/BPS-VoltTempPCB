@@ -688,6 +688,22 @@
     [
       "adc1f895-cab9-4230-a5f1-9bf4007b39c0",
       "Thermistor town"
+    ],
+    [
+      "2e07b969-5a9c-4ef1-ba45-fc31f1004d05",
+      "VoltageSense"
+    ],
+    [
+      "28ab9f86-06e3-4025-a371-5e4e53853fdc",
+      "VoltageConn"
+    ],
+    [
+      "735139e3-8e5f-472a-8a6a-59a0bef23c37",
+      "TemperatureConn"
+    ],
+    [
+      "b98a0b4d-b474-46e4-af8f-719e1bb91bc9",
+      "TemperatureFilters"
     ]
   ],
   "text_variables": {}
