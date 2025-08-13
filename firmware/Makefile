@@ -29,7 +29,7 @@ BUILD_MAKEFILE_DIR = Embedded-Sharepoint
 # generate paths
 MAKEFILE_DIR = $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 
-PROJECT_MAIN_DIR ?= Apps/Src/main
+PROJECT_MAIN_DIR ?= core/Src/main
 
 ifneq ($(TEST), main)
 PROJECT_C_SOURCES := $(filter-out $(PROJECT_MAIN_DIR).c, $(PROJECT_C_SOURCES))
@@ -91,7 +91,7 @@ else
 	@echo "Making ${PURPLE}$(PROJECT_TARGET)${NC}build with ${ORANGE}no test.${NC}"
 endif
 	$(BEAR_PREFIX) $(MAKE) -C $(BUILD_MAKEFILE_DIR) all -j
-	@echo "${BLUE}Compiled for BPS-Leader! Splendid! Jolly Good!!${NC}"
+	@echo "${BLUE}Compiled! Splendid! Jolly Good!!${NC}"
 #---------------------------------
 
 
