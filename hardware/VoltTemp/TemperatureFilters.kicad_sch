@@ -446,7 +446,7 @@
 		)
 		(uuid "d8001107-83a4-4b9f-b9fe-788751a1bfdf")
 	)
-	(hierarchical_label "Temperatures[0..4]"
+	(hierarchical_label "Temperature[0..4]"
 		(shape output)
 		(at 154.94 60.96 0)
 		(effects
