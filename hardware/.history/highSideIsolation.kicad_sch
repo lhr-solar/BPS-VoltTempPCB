@@ -5634,7 +5634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF_Mini-Circuits:Mini-Circuits_CD636_H4.11mm"
+		(property "Footprint" "Custom-Footprints:SOP254P1270X685-6N"
 			(at 185.42 111.76 0)
 			(hide yes)
 			(show_name no)
