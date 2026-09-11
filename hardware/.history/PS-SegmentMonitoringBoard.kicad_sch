@@ -286,6 +286,193 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x03"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x03"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x03_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x08"
 			(pin_names
 				(offset 1.016)
@@ -2082,32 +2269,28 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:NetTie_4_Cross"
-			(pin_numbers
-				(hide yes)
-			)
+		(symbol "lhrs_misc:Logo_Placeholder"
 			(pin_names
-				(offset 0)
-				(hide yes)
+				(offset 1.016)
 			)
 			(exclude_from_sim no)
-			(in_bom no)
+			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "NT"
-				(at 0.635 1.27 0)
+			(property "Reference" "LOGO1"
+				(at 0 3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "NetTie_4_Cross"
-				(at 0.635 -1.27 0)
+			(property "Value" "Dr. Hallock"
+				(at 3.556 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -2118,7 +2301,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0 0 0)
+				(at 0 1.905 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2129,6 +2312,17 @@
 				)
 			)
 			(property "Datasheet" ""
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Graph footprint placeholder"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2139,7 +2333,7 @@
 					)
 				)
 			)
-			(property "Description" "Net tie, 4 pins, cross"
+			(property "PN" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2150,7 +2344,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "net tie short"
+			(property "p/n" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2161,7 +2355,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "Net*Tie*"
+			(property "ki_keywords" "graphic, symbol"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2172,103 +2366,52 @@
 					)
 				)
 			)
-			(symbol "NetTie_4_Cross_0_1"
+			(symbol "Logo_Placeholder_0_1"
 				(polyline
 					(pts
-						(xy -1.27 0) (xy 1.27 0)
+						(xy -0.635 1.27) (xy -0.635 0)
 					)
 					(stroke
-						(width 0.508)
-						(type default)
+						(width 0)
+						(type solid)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 1.27)
-					)
+				(arc
+					(start 1.905 0)
+					(mid 0 -1.8967)
+					(end -1.905 0)
 					(stroke
-						(width 0.508)
-						(type default)
+						(width 0)
+						(type solid)
 					)
 					(fill
 						(type none)
 					)
 				)
-			)
-			(symbol "NetTie_4_Cross_1_1"
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
+				(circle
+					(center 0 0)
+					(radius 2.8448)
+					(stroke
+						(width 0)
+						(type solid)
 					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
+					(fill
+						(type background)
 					)
 				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
+				(polyline
+					(pts
+						(xy 0.635 1.27) (xy 0.635 0)
 					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
+					(stroke
+						(width 0)
+						(type solid)
 					)
-				)
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
+					(fill
+						(type none)
 					)
 				)
 			)
@@ -2392,7 +2535,7 @@
 	)
 	(rectangle
 		(start 44.45 138.43)
-		(end 85.09 151.13)
+		(end 106.68 151.13)
 		(stroke
 			(width 0)
 			(type default)
@@ -2402,23 +2545,23 @@
 		)
 		(uuid "8ebe3cea-3f0a-42e3-b850-a6cbd7dd8468")
 	)
-	(text "Major Todo's:\n - redo resistor math for 240mA -> DONE\n - figure out NFAULT -> im p sure we dont need\n - double check whether I need NTC filters or not -> DONE\n - cap isolation with choke shi -> DONE"
+	(text "A\n"
 		(exclude_from_sim no)
-		(at 178.054 172.72 0)
+		(at 267.97 193.294 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1.905 1.905)
 			)
 			(justify left)
 		)
-		(uuid "129b439f-8229-4701-8ad1-79ea17d1e578")
+		(uuid "061f146d-d717-469e-9649-236d69070fa6")
 	)
-	(text "notes n shi:\n - 4.7 uF\n - res -> "
+	(text "Segment Monitoring Board"
 		(exclude_from_sim no)
-		(at 248.92 169.926 0)
+		(at 186.182 189.484 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
 			)
 			(justify left)
 		)
@@ -2465,16 +2608,10 @@
 		(uuid "2e28c7a5-1b32-43b5-92a5-208adb9049be")
 	)
 	(junction
-		(at 161.29 137.16)
+		(at 158.75 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "347247f5-3473-43d4-96e4-56c5da0cee12")
-	)
-	(junction
-		(at 161.29 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42a66f19-9224-45e6-89af-fda1166a276e")
+		(uuid "3058fc4d-d9ed-4845-a1ef-c52f217ed3e9")
 	)
 	(junction
 		(at 118.11 115.57)
@@ -2493,6 +2630,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6dde5c48-9f4d-4039-85e5-6ebbb165a8a9")
+	)
+	(junction
+		(at 158.75 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6df7a21a-2b78-493b-a2f6-be42a17c9df4")
 	)
 	(junction
 		(at 118.11 110.49)
@@ -2525,22 +2668,16 @@
 		(uuid "9e7a1eee-0d62-4d32-8658-19e1afb6a385")
 	)
 	(junction
+		(at 158.75 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a88bc221-07c0-4f56-8d28-f5f1da444872")
+	)
+	(junction
 		(at 158.75 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bdb115bd-6411-4f94-9e52-cc67060d4abc")
-	)
-	(junction
-		(at 161.29 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bdd0a131-3af4-4fd1-a396-a2ea5823c411")
-	)
-	(junction
-		(at 161.29 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb7fa5d8-f118-4242-bc3a-4c76e32e60d8")
 	)
 	(junction
 		(at 118.11 102.87)
@@ -2561,6 +2698,12 @@
 		(uuid "f53a4fc7-cba0-4c7b-9ccf-85b55293777e")
 	)
 	(junction
+		(at 158.75 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7b556ee-b258-4403-bac5-d91c5c9e1596")
+	)
+	(junction
 		(at 158.75 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2577,6 +2720,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdb0bae7-38bc-47af-ac06-192cc80bb596")
+	)
+	(no_connect
+		(at 224.79 97.79)
+		(uuid "244bd6d1-3854-45d1-bfd1-8759627f8caf")
 	)
 	(no_connect
 		(at 118.11 137.16)
@@ -3176,6 +3323,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 133.35) (xy 158.75 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3649af6d-0830-40f0-8de5-7eb41ae3c299")
+	)
+	(wire
+		(pts
 			(xy 77.47 78.74) (xy 85.09 78.74)
 		)
 		(stroke
@@ -3283,26 +3440,6 @@
 			(type default)
 		)
 		(uuid "4ec8968b-16e9-4c22-a7d4-806ef409f88e")
-	)
-	(wire
-		(pts
-			(xy 161.29 125.73) (xy 177.8 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fc600f4-20d1-41f0-8b72-5a50bb639385")
-	)
-	(wire
-		(pts
-			(xy 175.26 137.16) (xy 175.26 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "508a3410-c937-4cd8-987c-dc1d05cf6c3b")
 	)
 	(wire
 		(pts
@@ -3516,16 +3653,6 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 137.16) (xy 175.26 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72c6f106-2a02-491b-9d91-942b015193c1")
-	)
-	(wire
-		(pts
 			(xy 158.75 34.29) (xy 168.91 34.29)
 		)
 		(stroke
@@ -3533,16 +3660,6 @@
 			(type default)
 		)
 		(uuid "736ae899-c918-4ab8-8471-a62ed7aaf425")
-	)
-	(wire
-		(pts
-			(xy 177.8 125.73) (xy 177.8 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7705d492-2ef0-44b7-99ee-509b89feda6c")
 	)
 	(wire
 		(pts
@@ -3836,6 +3953,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 146.05) (xy 87.63 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad18f1fb-3962-488d-95c6-f820e5134066")
+	)
+	(wire
+		(pts
 			(xy 158.75 67.31) (xy 158.75 69.85)
 		)
 		(stroke
@@ -3863,26 +3990,6 @@
 			(type default)
 		)
 		(uuid "b1da889f-0c66-44da-b74e-ac57982cf225")
-	)
-	(wire
-		(pts
-			(xy 175.26 130.81) (xy 175.26 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b460ac66-5d1b-4c61-af94-3737451e3cb7")
-	)
-	(wire
-		(pts
-			(xy 161.29 133.35) (xy 172.72 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4758ae9-221e-4661-bdc9-aa94111551d7")
 	)
 	(bus
 		(pts
@@ -3943,16 +4050,6 @@
 			(type default)
 		)
 		(uuid "c4260922-a871-4dbd-9320-75ad7d540860")
-	)
-	(wire
-		(pts
-			(xy 175.26 129.54) (xy 161.29 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6ccf071-991b-4e3b-86e2-d3da20248f6e")
 	)
 	(wire
 		(pts
@@ -4043,6 +4140,16 @@
 			(type default)
 		)
 		(uuid "dbbb1cbb-f054-49dc-badd-ee6345b78b81")
+	)
+	(wire
+		(pts
+			(xy 158.75 129.54) (xy 158.75 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc4db7c4-d0fb-45be-9705-e8a0b1159596")
 	)
 	(wire
 		(pts
@@ -4156,6 +4263,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 102.87) (xy 224.79 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f18e7635-6b83-4fc1-9583-d56b8c3c7d8e")
+	)
+	(wire
+		(pts
 			(xy 36.83 100.33) (xy 41.91 100.33)
 		)
 		(stroke
@@ -4206,6 +4323,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 125.73) (xy 158.75 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7f3ac91-70b5-437c-8ada-89a8a8164684")
+	)
+	(wire
+		(pts
 			(xy 109.22 82.55) (xy 118.11 82.55)
 		)
 		(stroke
@@ -4233,16 +4360,6 @@
 			(type default)
 		)
 		(uuid "fc7b3509-8414-48d6-998b-6fdab8090bd7")
-	)
-	(wire
-		(pts
-			(xy 218.44 102.87) (xy 224.79 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcd4fa05-8cd2-409e-b5c4-9bfe336e70fa")
 	)
 	(wire
 		(pts
@@ -13264,6 +13381,16 @@
 		)
 		(uuid "9362eb85-fbd0-4b6f-8f17-13922d622ed1")
 	)
+	(label "V0"
+		(at 87.63 148.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9477c17e-91d3-453c-a9dc-19cf25e8b017")
+	)
 	(label "VC2"
 		(at 109.22 80.01 0)
 		(effects
@@ -13996,6 +14123,104 @@
 		)
 	)
 	(symbol
+		(lib_id "lhrs_misc:Logo_Placeholder")
+		(at 265.43 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "216ad2b7-2a6e-4f8d-8a99-85a6a92cb6f6")
+		(property "Reference" "LOGO1"
+			(at 265.43 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Dr. Hallock"
+			(at 269.24 160.0199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LHRS_Logos:LHRs_LOGO"
+			(at 265.43 158.115 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.43 158.115 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Graph footprint placeholder"
+			(at 265.43 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" ""
+			(at 265.43 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "p/n" ""
+			(at 265.43 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "PS-SegmentMonitoringBoard"
+				(path "/f5c3f134-fd91-4d3b-aae6-719b554b2d69"
+					(reference "LOGO1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 48.26 146.05 0)
 		(unit 1)
@@ -14174,7 +14399,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BAT"
+		(property "Value" "V7"
 			(at 76.2 144.0179 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14561,91 +14786,6 @@
 			(project "PS-SegmentMonitoringBoard"
 				(path "/f5c3f134-fd91-4d3b-aae6-719b554b2d69"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:NetTie_4_Cross")
-		(at 175.26 133.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5b0475b8-db31-4fba-9712-66f5e8aaa89f")
-		(property "Reference" "NT1"
-			(at 180.34 132.588 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_4_Cross"
-			(at 183.134 134.874 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.26 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 175.26 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Net tie, 4 pins, cross"
-			(at 175.26 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9919a68c-41da-43ac-8492-13f67c3ae9be")
-		)
-		(pin "3"
-			(uuid "1b115b1c-b301-40dc-91d5-c938853e7ac8")
-		)
-		(pin "1"
-			(uuid "cd833037-5825-47e5-beb0-d39c862de2f4")
-		)
-		(pin "4"
-			(uuid "2e7efcde-b0ed-463f-a075-3c3b6e0a258f")
-		)
-		(instances
-			(project "PS-SegmentMonitoringBoard"
-				(path "/f5c3f134-fd91-4d3b-aae6-719b554b2d69"
-					(reference "NT1")
 					(unit 1)
 				)
 			)
@@ -15376,6 +15516,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 87.63 146.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "930e02f2-613d-4bf1-9cab-60bee44579f5")
+		(property "Reference" "TP7"
+			(at 90.17 141.4779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "V0"
+			(at 90.17 144.0179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Plated_Hole_D2.0mm"
+			(at 92.71 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 87.63 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aa1fe8e2-2976-4ee9-85c6-a66c4ff4b15b")
+		)
+		(instances
+			(project "PS-SegmentMonitoringBoard"
+				(path "/f5c3f134-fd91-4d3b-aae6-719b554b2d69"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 77.47 78.74 0)
 		(mirror y)
@@ -15947,6 +16166,91 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 229.87 100.33 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b95a2ec7-5986-4e37-b828-c60e102d2051")
+		(property "Reference" "J2"
+			(at 232.41 101.6001 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "highSideConn"
+			(at 232.41 99.0601 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LHRS_Connectors:Molex_Nano-Fit_105313-xx03_1x03_P2.50mm_Horizontal"
+			(at 229.87 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 229.87 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5f766e57-72c3-48e1-ab6d-947bf8e7526e")
+		)
+		(pin "2"
+			(uuid "985d6faa-910c-468b-b8f0-5991aa12099e")
+		)
+		(pin "3"
+			(uuid "d86e2c5d-3f6e-4874-9f99-55895f337daa")
+		)
+		(instances
+			(project "PS-SegmentMonitoringBoard"
+				(path "/f5c3f134-fd91-4d3b-aae6-719b554b2d69"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 229.87 113.03 0)
 		(unit 1)
@@ -16259,88 +16563,6 @@
 			(project "PS-SegmentMonitoringBoard"
 				(path "/f5c3f134-fd91-4d3b-aae6-719b554b2d69"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 229.87 100.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e24a52a3-c236-4aed-a4c1-fc275d899b55")
-		(property "Reference" "J2"
-			(at 232.41 100.3299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "highSideConn"
-			(at 232.41 102.8699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LHRS_Connectors:Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal"
-			(at 229.87 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 229.87 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b8090b4e-aab7-4b9c-96f6-30ebee301f63")
-		)
-		(pin "2"
-			(uuid "f99a895e-4c2e-4c7d-864e-4d64c52554a0")
-		)
-		(instances
-			(project "PS-SegmentMonitoringBoard"
-				(path "/f5c3f134-fd91-4d3b-aae6-719b554b2d69"
-					(reference "J2")
 					(unit 1)
 				)
 			)
