@@ -4212,7 +4212,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50Ω"
+		(property "Value" "100Ω"
 			(at 58.42 46.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4246,6 +4246,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1000T5E"
 			(at 55.88 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -4531,7 +4542,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50Ω"
+		(property "Value" "100Ω"
 			(at 58.42 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4565,6 +4576,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1000T5E"
 			(at 55.88 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -4968,6 +4990,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 261.62 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b286de7a-c082-45f7-9e88-dde0279bb304")
 		)
@@ -5143,6 +5176,17 @@
 				)
 			)
 		)
+		(property "P/N" "LTST-C193TBKT-5A"
+			(at 214.63 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "961c3062-dc12-40e1-b358-bb9bb0de737e")
 		)
@@ -5212,6 +5256,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 115.57 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "105313-xx04"
 			(at 115.57 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -5549,6 +5604,17 @@
 				)
 			)
 		)
+		(property "P/N" "105313-xx05"
+			(at 147.32 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e2e7fa2f-6dd5-4267-ac67-1fb65eabae2b")
 		)
@@ -5594,7 +5660,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "1k Ω"
 			(at 190.5 31.242 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5627,6 +5693,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 185.42 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
 			(at 185.42 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -5675,7 +5752,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50Ω"
+		(property "Value" "100Ω"
 			(at 58.42 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5709,6 +5786,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1000T5E"
 			(at 55.88 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5798,6 +5886,17 @@
 				)
 			)
 		)
+		(property "P/N" "105313-xx02"
+			(at 114.3 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d1b61332-ba06-4e6a-879c-484475d7e5a2")
 		)
@@ -5834,7 +5933,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "1k Ω"
 			(at 190.5 64.262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5867,6 +5966,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 185.42 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
 			(at 185.42 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -6114,6 +6224,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 203.2 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e2429c0f-e285-4004-bea5-bc3c3657f451")
 		)
@@ -6152,7 +6273,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50Ω"
+		(property "Value" "100Ω"
 			(at 58.42 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6186,6 +6307,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1000T5E"
 			(at 55.88 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6280,6 +6412,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 273.05 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "LTST-C193TBKT-5A"
+			(at 273.05 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6542,6 +6685,17 @@
 				)
 			)
 		)
+		(property "P/N" "LTST-C193TBKT-5A"
+			(at 243.84 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1c5df26c-f12d-4bc3-902c-13a669ad8ff1")
 		)
@@ -6691,6 +6845,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 203.2 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
 			(at 203.2 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -6851,6 +7016,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 261.62 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
 			(at 261.62 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -7617,7 +7793,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "1k Ω"
 			(at 278.13 31.242 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7650,6 +7826,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 273.05 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
 			(at 273.05 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -7733,6 +7920,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 121.92 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R9BB105"
+			(at 121.92 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8068,6 +8266,17 @@
 				)
 			)
 		)
+		(property "P/N" "LTST-C193TBKT-5A"
+			(at 243.84 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2954c94-ef79-47c6-b14f-674556bbb1cd")
 		)
@@ -8183,7 +8392,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50Ω"
+		(property "Value" "100Ω"
 			(at 58.42 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8217,6 +8426,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1000T5E"
 			(at 55.88 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -8386,6 +8606,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 232.41 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6f14ca16-cf76-4091-9120-60444b2b1142")
 		)
@@ -8500,7 +8731,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "1k Ω"
 			(at 248.92 64.262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8533,6 +8764,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 243.84 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
 			(at 243.84 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8780,6 +9022,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 232.41 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "09823b0c-2120-4332-9822-00739e789095")
 		)
@@ -8864,6 +9117,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 185.42 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "LTST-C193TBKT-5A"
+			(at 185.42 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9031,6 +9295,17 @@
 				)
 			)
 		)
+		(property "P/N" "105313-xx05"
+			(at 147.32 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c45f270-6f28-4bb4-8f23-67ffd0863286")
 		)
@@ -9111,6 +9386,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 173.99 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
 			(at 173.99 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9520,6 +9806,17 @@
 				)
 			)
 		)
+		(property "P/N" "105313-xx07"
+			(at 30.48 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "d40ea025-16dc-4549-8911-67877fc0919d")
 		)
@@ -9571,7 +9868,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "1k Ω"
 			(at 219.71 31.242 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9604,6 +9901,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 214.63 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
 			(at 214.63 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -9650,7 +9958,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "1k Ω"
 			(at 278.13 64.262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9683,6 +9991,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 273.05 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
 			(at 273.05 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9764,6 +10083,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 173.99 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
 			(at 173.99 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -9922,6 +10252,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 115.57 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "105313-xx04"
 			(at 115.57 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10129,7 +10470,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "1k Ω"
 			(at 219.71 64.262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10162,6 +10503,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 214.63 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
 			(at 214.63 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10210,7 +10562,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50Ω"
+		(property "Value" "100Ω"
 			(at 58.42 67.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10244,6 +10596,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1000T5E"
 			(at 55.88 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10589,6 +10952,17 @@
 				)
 			)
 		)
+		(property "P/N" "LTST-C193TBKT-5A"
+			(at 185.42 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "35cd07c1-57de-42f8-b695-05cf16771e07")
 		)
@@ -10627,7 +11001,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50Ω"
+		(property "Value" "100Ω"
 			(at 58.42 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10661,6 +11035,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1000T5E"
 			(at 55.88 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10841,6 +11226,17 @@
 				)
 			)
 		)
+		(property "P/N" "LTST-C193TBKT-5A"
+			(at 273.05 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c7989aa-cce5-4e2c-a081-fc7cfa90898f")
 		)
@@ -10879,7 +11275,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50Ω"
+		(property "Value" "100Ω"
 			(at 58.42 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10913,6 +11309,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1000T5E"
 			(at 55.88 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -11084,6 +11491,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 214.63 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "LTST-C193TBKT-5A"
+			(at 214.63 36.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11289,7 +11707,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "1k Ω"
 			(at 248.92 31.242 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11322,6 +11740,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 243.84 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
 			(at 243.84 30.48 0)
 			(hide yes)
 			(show_name no)
