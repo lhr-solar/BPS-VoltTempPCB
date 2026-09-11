@@ -920,7 +920,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "UTSVT_Connectors:Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal"
+	(footprint "LHRS_Connectors:Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "092a096b-87e3-44da-8844-a0313b6abb3f")
 		(at 158 53.575)
@@ -2421,7 +2421,7 @@
 		(at 144.13142 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "4&5"
+		(property "Reference" "TP5"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "30f2b6ca-97af-40f0-be78-48d134f92bd5")
@@ -2526,7 +2526,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "UTSVT_Connectors:Banana_Jack_1_Pin_4mm"
+	(footprint "LHRS_Connectors:Banana_Jack_1_Pin_4mm"
 		(layer "F.Cu")
 		(uuid "2e57154c-ec66-4e63-aeec-a37da747a2f2")
 		(at 161.96892 76.48275)
@@ -2621,7 +2621,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "UTSVT_Connectors:Molex_Nano-Fit_105313-xx04_1x04_P2.50mm_Horizontal"
+	(footprint "LHRS_Connectors:Molex_Nano-Fit_105313-xx04_1x04_P2.50mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "314e45fc-9035-4b0d-9f34-c1dcfee590e9")
 		(at 158.02 23.5)
@@ -3123,7 +3123,7 @@
 		(at 133.66267 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "2&3"
+		(property "Reference" "TP3"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "edb3edd9-7e37-4778-a43d-8bfdb13af9bd")
@@ -6051,7 +6051,7 @@
 		(at 149.365795 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "5&6"
+		(property "Reference" "TP6"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "7d13fa4d-085d-4b09-ac25-893c842f7419")
@@ -6544,7 +6544,7 @@
 		(at 138.897045 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "3&4"
+		(property "Reference" "TP4"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "b26b3aca-5f3d-4abc-988b-61195a57a9cb")
@@ -7291,7 +7291,7 @@
 		(at 123.19392 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "GND"
+		(property "Reference" "TP1"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "98aa93c1-836d-4e53-b5db-dbc3f88e65e2")
@@ -7561,7 +7561,7 @@
 		(at 159.834545 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "7&8"
+		(property "Reference" "TP8"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "11406e9b-5e38-4d3a-aec5-ca976307d917")
@@ -7889,14 +7889,14 @@
 			)
 		)
 	)
-	(footprint "UTSVT_Connectors:Molex_Nano-Fit_105313-xx05_1x05_P2.50mm_Horizontal"
+	(footprint "LHRS_Connectors:Molex_Nano-Fit_105313-xx05_1x05_P2.50mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a7ed1845-f7aa-42f1-aff3-8dd8cc1683e1")
 		(at 130.12 33.275 180)
 		(descr "Molex Nano-Fit Power Connectors, 105313-xx05, 5 Pins per row (http://www.molex.com/pdm_docs/sd/1053131208_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Nano-Fit top entry")
 		(property "Reference" "J8"
-			(at 6.15 -2.92 0)
+			(at 6.15 -2.92 180)
 			(layer "F.SilkS")
 			(uuid "ff4027c2-c934-42f9-b6a1-a0ba5759391e")
 			(effects
@@ -7907,7 +7907,7 @@
 			)
 		)
 		(property "Value" "therm_set2"
-			(at 6.15 12.92 0)
+			(at 6.15 12.92 180)
 			(layer "F.Fab")
 			(uuid "5007bcb8-246a-446b-b501-690ed74fcd84")
 			(effects
@@ -8336,7 +8336,7 @@
 			(uuid "eeab2d49-bb87-427e-9fb5-ad1d8c73a7df")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 6.15 11.02 0)
+			(at 6.15 11.02 180)
 			(layer "F.Fab")
 			(uuid "4556eb74-fdd2-4112-b126-e02ebea3e3e9")
 			(effects
@@ -8442,7 +8442,7 @@
 		(at 128.428295 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "1&2"
+		(property "Reference" "TP2"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "a9b8064b-b3a4-46e2-87ce-8c57337b3108")
@@ -9425,7 +9425,7 @@
 			)
 		)
 	)
-	(footprint "UTSVT_Connectors:Molex_Nano-Fit_105313-xx04_1x04_P2.50mm_Horizontal"
+	(footprint "LHRS_Connectors:Molex_Nano-Fit_105313-xx04_1x04_P2.50mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "bcf77eea-c930-4d18-a5a1-d242f7760ec2")
 		(at 158.02 38.3)
@@ -9927,7 +9927,7 @@
 		(at 154.60017 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "6&7"
+		(property "Reference" "TP7"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "9846cea3-b036-4bbc-a5c4-71b40bd5fbe7")
@@ -10991,14 +10991,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "UTSVT_Connectors:Molex_Nano-Fit_105313-xx07_1x07_P2.50mm_Horizontal"
+	(footprint "LHRS_Connectors:Molex_Nano-Fit_105313-xx07_1x07_P2.50mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ed50e972-385a-4954-abe8-ab97c6a41bf6")
 		(at 151.46892 72.38275 -90)
 		(descr "Molex Nano-Fit Power Connectors, 105313-xx07, 7 Pins per row (http://www.molex.com/pdm_docs/sd/1053131208_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Nano-Fit top entry")
 		(property "Reference" "J1"
-			(at 6.15 -2.92 90)
+			(at 6.15 -2.92 270)
 			(layer "F.SilkS")
 			(uuid "6f068568-e019-4669-b21d-bf6b53eed966")
 			(effects
@@ -11009,7 +11009,7 @@
 			)
 		)
 		(property "Value" "bms_taps"
-			(at 6.15 17.92 90)
+			(at 6.15 17.92 270)
 			(layer "F.Fab")
 			(uuid "2e82fbd0-cddd-428e-9806-6eeff017bf72")
 			(effects
@@ -11518,7 +11518,7 @@
 			(uuid "c79edd1b-d336-45bb-8f5a-5373e9cf5af7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 6.15 16.02 90)
+			(at 6.15 16.02 270)
 			(layer "F.Fab")
 			(uuid "53b8773c-47e0-475c-a710-7ca19d2b6f27")
 			(effects
@@ -12250,14 +12250,14 @@
 			)
 		)
 	)
-	(footprint "UTSVT_Connectors:Molex_Nano-Fit_105313-xx05_1x05_P2.50mm_Horizontal"
+	(footprint "LHRS_Connectors:Molex_Nano-Fit_105313-xx05_1x05_P2.50mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f819bf09-6abc-41da-8f49-758b497e79af")
 		(at 130.14 50.575 180)
 		(descr "Molex Nano-Fit Power Connectors, 105313-xx05, 5 Pins per row (http://www.molex.com/pdm_docs/sd/1053131208_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Nano-Fit top entry")
 		(property "Reference" "J7"
-			(at 6.15 -2.92 0)
+			(at 6.15 -2.92 180)
 			(layer "F.SilkS")
 			(uuid "e9bde074-ffcb-4bc0-9370-4328c08336cd")
 			(effects
@@ -12268,7 +12268,7 @@
 			)
 		)
 		(property "Value" "therm_set1"
-			(at 6.15 12.92 0)
+			(at 6.15 12.92 180)
 			(layer "F.Fab")
 			(uuid "c2ceb74f-a108-4ea4-a531-b0ea03a1205f")
 			(effects
@@ -12697,7 +12697,7 @@
 			(uuid "b8a1c338-7f81-4610-bd26-57af44da4c8b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 6.15 11.02 0)
+			(at 6.15 11.02 180)
 			(layer "F.Fab")
 			(uuid "d3826fb7-2e0f-4269-a054-d7fba8d10db6")
 			(effects
@@ -13012,7 +13012,7 @@
 		(at 165.06892 63.26275)
 		(descr "Plated Hole as test Point, diameter 2.0mm")
 		(tags "test point plated hole")
-		(property "Reference" "28.8[v]"
+		(property "Reference" "TP9"
 			(at 0 -2.498 0)
 			(layer "F.SilkS")
 			(uuid "f3d0bf70-1a43-4421-bb35-20494ebde8e4")
@@ -13117,7 +13117,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "UTSVT_Connectors:Banana_Jack_1_Pin_4mm"
+	(footprint "LHRS_Connectors:Banana_Jack_1_Pin_4mm"
 		(layer "F.Cu")
 		(uuid "fa661c09-1a47-4043-a0be-2b98d1c4d89c")
 		(at 126.06892 76.38275)
