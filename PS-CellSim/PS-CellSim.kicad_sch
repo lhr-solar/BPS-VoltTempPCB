@@ -4676,6 +4676,17 @@
 				)
 			)
 		)
+		(property "P/N" "575-4"
+			(at 31.75 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a566fbbb-128a-4874-a520-3d1152e9e713")
 		)
@@ -7668,6 +7679,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 31.75 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "575-4"
 			(at 31.75 58.42 0)
 			(hide yes)
 			(show_name no)
