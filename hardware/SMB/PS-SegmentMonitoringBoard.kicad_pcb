@@ -44672,7 +44672,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "9cb667c7-800b-4545-bf44-c95527385e9a")
-		(at 121.630192 68.538834)
+		(at 80.600192 106.928834)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -227289,8 +227289,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Made by:\nLeo Block\n"
-		(at 137.36 68.67 0)
+	(gr_text "Leo Block\nRev A 2026\nSegment Monitoring Board"
+		(at 149.54 74.12 0)
 		(layer "F.SilkS")
 		(uuid "b465d83c-166f-4283-b1be-4343c7665d44")
 		(effects
@@ -227299,7 +227299,7 @@
 				(thickness 0.3)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 	)
 	(gr_text "CB\n"
